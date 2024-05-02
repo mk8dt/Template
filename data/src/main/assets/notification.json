@@ -1,0 +1,25 @@
+{
+  "status": "Success",
+  "code": 200,
+  "message": "Work Correctly",
+  "data": [
+    {
+      "notificationId": "5ecb62748t3gbe3ioh21",
+      "title": "Warning Account",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at blandit ligula, nec porttitor tellus. Curabitur pharetra eros nec leo tristique, at posuere quam aliquam. Nam at lorem pulvinar, eleifend ipsum at, aliquam odio. Morbi tempor tempor ipsum, sit amet facilisis turpis suscipit eget. Maecenas lorem justo, finibus porta placerat quis, dictum nec sapien. Curabitur auctor ac neque vitae feugiat",
+      "time": "25.Mar.2024 - 16:00"
+    },
+    {
+      "notificationId": "7eb6de960ab344eb34bf6f1",
+      "title": "Have a new message",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at blandit ligula, nec porttitor tellus. Curabitur pharetra eros nec leo tristique, at posuere quam aliquam. Nam at lorem pulvinar, eleifend ipsum at, aliquam odio. Morbi tempor tempor ipsum, sit amet facilisis turpis suscipit eget. Maecenas lorem justo, finibus porta placerat quis, dictum nec sapien. Curabitur auctor ac neque vitae feugiat",
+      "time": "15.Mar.2024 - 10:00"
+    },
+    {
+      "notificationId": "qw78t7cgq9eVuBq9qev243",
+      "title": "New info available",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at blandit ligula, nec porttitor tellus. Curabitur pharetra eros nec leo tristique, at posuere quam aliquam. Nam at lorem pulvinar, eleifend ipsum at, aliquam odio. Morbi tempor tempor ipsum, sit amet facilisis turpis suscipit eget. Maecenas lorem justo, finibus porta placerat quis, dictum nec sapien. Curabitur auctor ac neque vitae feugiat",
+      "time": "8.Mar.2024 - 21:00"
+    }
+  ]
+}
